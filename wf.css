@@ -54,5 +54,8 @@ input#saveForm
 }
 form p.error {
     padding: 7px 0 10px 10px !important;
-    background-color: #042856;
+}
+
+form li.error {
+    background-color: #042856 !important;
 }

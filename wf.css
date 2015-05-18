@@ -1,0 +1,54 @@
+.wufoo .info h2
+{
+    display: none;
+}
+form li.error
+{
+    background-color: #000;
+}
+input.text
+{
+    padding: 10px;
+    width: 95%;
+    height: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(251, 251, 251);
+    background-color: rgb(4, 24, 71);
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 16px;
+    line-height: 1.2;
+}
+.wufoo li.focused,
+form li.focused
+{
+    background-color: none;
+}
+.wufoo li.focused
+{
+    background-color: #000;
+}
+label.desc,
+form li
+{
+    margin-bottom: 10px;
+    padding: 0;
+}
+input#saveForm
+{
+    float: left;
+    width: 221px;
+    height: 52px;
+    border: 0;
+    background-color: rgb(0, 204, 255);
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.2;
+}
+.wufoo input.text
+{
+    background: none;
+    color: #fff;
+    font-size: 14px;
+}

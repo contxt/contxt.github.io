@@ -48,7 +48,7 @@ form p.error {
 }
 
 form li.error {
-    background-color: #042856 !important;
+    background-color: transparent !important;
 }
 .wufoo li.focused, form li.focused {
     background-color: transparent;

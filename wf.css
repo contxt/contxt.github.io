@@ -4,7 +4,7 @@
 }
 form li.error
 {
-    background-color: #000;
+    background-color: transparent;
 }
 input.text
 {
@@ -19,15 +19,6 @@ input.text
     text-align: left;
     font-size: 16px;
     line-height: 1.2;
-}
-.wufoo li.focused,
-form li.focused
-{
-    background-color: none;
-}
-.wufoo li.focused
-{
-    background-color: #000;
 }
 label.desc,
 form li
@@ -58,4 +49,7 @@ form p.error {
 
 form li.error {
     background-color: #042856 !important;
+}
+.wufoo li.focused, form li.focused {
+    background-color: transparent;
 }

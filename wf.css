@@ -44,7 +44,7 @@ input#saveForm
     font-size: 14px;
 }
 form p.error {
-    padding: 7px 0 10px 10px !important;
+    padding: 10px 0 10px 10px !important;
 }
 
 form li.error {

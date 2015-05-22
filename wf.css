@@ -54,3 +54,7 @@ form li.error {
 .wufoo li.focused, form li.focused {
     background-color: transparent;
 }
+
+@media (max-width: 665px) {
+    width: 87%;
+}

@@ -36,7 +36,6 @@ input#saveForm
     color: #fff;
     font-size: 16px;
     line-height: 1.2;
-    border-radius: 0;
 }
 .wufoo input.text
 {
@@ -57,4 +56,5 @@ form li.error {
 
 @media (max-width: 665px) {
     width: 87%;
+    border-radius: 0;
 }

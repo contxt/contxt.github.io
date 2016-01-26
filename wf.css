@@ -38,6 +38,7 @@ input#saveForm, button#saveForm
     line-height: 1.2;
     border-radius: 1px;
     -webkit-appearance: none;
+    cursor: pointer;
 }
 .wufoo input.text
 {
